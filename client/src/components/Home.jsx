@@ -58,7 +58,7 @@ const Home = () => {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-teal-700 dark:text-teal-700">
-        Harsh Shah
+        Kunal Gahlot
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         Staff Engineer, Google
